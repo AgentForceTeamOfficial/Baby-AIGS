@@ -12,4 +12,4 @@ Rapid development of artificial intelligence has drastically accelerated the dev
 
 ## Baby-AIGS
 
-Please stay tuned for code releasing!
+Please stay tuned for code release!
